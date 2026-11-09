@@ -44,7 +44,7 @@ Nothing in these Terms excludes rights or liabilities that cannot legally be exc
 
 ## 8. Contact
 
-For questions about these Terms, contact: bilal1988@gmail.com
+For questions about these Terms, contact: 
 
 **Developer:** Bilal B. S.  
-**Email:** [PUBLIC SUPPORT EMAIL]
+**Email:** bilal1988@gmail.com
